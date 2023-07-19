@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="Macrozonas_Sanitarias" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+	<name>Macrozonas Sanitarias</name>
+	<snippet></snippet>
+	<description>Delimitación de Macrozonas sanitarias de concesiones de salmones</description>
+	<gx:CascadingStyle kml:id="__managed_style_180F57027B2AA51AE3F7">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/simple_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<color>00000000</color>
+				<scale>0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2f2fd3</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>802f2fd3</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>panel</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_05061E66A22AA51AE3F7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_180F57027B2AA51AE3F7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_04C6E579512AA51AE3F8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="PolyStyle00">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff00a838</color>
+			<width>0.4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0055ff</color>
+		</PolyStyle>
+	</Style>
+	<gx:CascadingStyle kml:id="__managed_style_229B6C51702AA51951CC">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<color>00000000</color>
+				<scale>0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff00a838</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>ff0055ff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_04C6E579512AA51AE3F8">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/simple_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<color>00000000</color>
+				<scale>0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2f2fd3</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>802f2fd3</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>panel</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1E5C76FB562AA51951CC">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<color>00000000</color>
+				<scale>0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff00a838</color>
+			</LineStyle>
+			<PolyStyle>
+				<color>ff0055ff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0DCB4B53382AA51951CC">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1E5C76FB562AA51951CC</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_229B6C51702AA51951CC</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder id="FeatureLayer0">
+		<name>Macrozonas Sanitarias</name>
+		<open>1</open>
+		<snippet></snippet>
+		<description>Delimitación de Macrozonas sanitarias de concesiones de salmones</description>
+		<Placemark id="ID_00000">
+			<name>2</name>
+			<snippet></snippet>
+			<description><![CDATA[<html><body><table border="1"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>Nùmero</td><td>2</td></tr><tr><td>Región</td><td>REGIÓN DE AYSÉN DEL GENERAL CARLOS IBAÑEZ DEL CAMPO</td></tr><tr><td>N° Resolución SUBPESCA</td><td>1549</td></tr><tr><td>Fecha Resolución SUBPESCA</td><td>07-06-2012</td></tr></table></body></html>]]></description>
+			<styleUrl>#__managed_style_0DCB4B53382AA51951CC</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-74.76180036000055,-45.16747124153613,0 -75.31798272128817,-46.16332311008739,0 -74.26648362680213,-46.38099085115487,0 -73.39133307554377,-46.43897592657682,0 -72.69538797200728,-45.48797925872906,0 -72.91468210428637,-45.48943816787187,0 -73.10009157605388,-45.41767007423277,0 -73.15852348459536,-45.34258963245895,0 -73.29397894345352,-45.32152344110753,0 -73.32505417004985,-45.30020678920917,0 -73.39995317461874,-45.30848461822751,0 -73.67139093696301,-45.21604338619498,0 -73.66896060521388,-45.14025999690866,0 -73.62655287978852,-45.00897526501577,0 -73.68134224412385,-44.97727621419644,0 -73.85383181540568,-44.98103516912222,0 -73.96599640710693,-45.01281631273864,0 -74.03448765689583,-45.02925506548915,0 -74.15676387293867,-45.02556891493619,0 -74.20721988557666,-45.0538387972636,0 -74.23428063356144,-45.0765332853257,0 -74.46010363710177,-45.04122782882801,0 -74.76180036000055,-45.16747124153613,0 -74.76180036000055,-45.16747124153613,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="ID_00001">
+			<name>1</name>
+			<snippet></snippet>
+			<description><![CDATA[<html><body><table border="1"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>2</td></tr><tr><td>Nùmero</td><td>1</td></tr><tr><td>Región</td><td>REGIÓN DE AYSÉN DEL GENERAL CARLOS IBAÑEZ DEL CAMPO</td></tr><tr><td>N° Resolución SUBPESCA</td><td>1549</td></tr><tr><td>Fecha Resolución SUBPESCA</td><td>07-06-2012</td></tr></table></body></html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-74.05777789768186,-43.6486886854843,0 -74.35737406616462,-43.81657384524707,0 -74.91964053975821,-44.54026407928419,0 -74.91950368276166,-44.67954271211889,0 -74.75922243010632,-44.86118450517075,0 -74.55368617331024,-45.00076093674532,0 -74.48977125548639,-45.001349468798,0 -74.37662442556494,-45.00111511831373,0 -74.2354673147014,-45.02789117265706,0 -74.19386695296706,-44.99726977262279,0 -74.01222236219765,-44.98105749067746,0 -73.89586622187491,-44.9623231405826,0 -73.82370932947677,-44.95940378379958,0 -73.76437341299646,-44.9546396320927,0 -73.68640616780247,-44.94073209067564,0 -73.59153740965981,-44.91562666411052,0 -73.5364174819569,-44.84309331293089,0 -73.53271166481002,-44.78393999101257,0 -73.54280579227729,-44.7457964022214,0 -73.57700681463007,-44.64771817833604,0 -73.57351402623586,-44.5968270502479,0 -73.54383391500168,-44.48403998503451,0 -73.45213059347356,-44.32285988317738,0 -73.40827977047064,-43.98191821013747,0 -73.42686482169992,-43.93979215549324,0 -73.61222630538379,-43.79049002899313,0 -73.93420456091934,-43.65205604099135,0 -74.05777789768186,-43.6486886854843,0 -74.05777789768186,-43.6486886854843,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="ID_00002">
+			<name>3</name>
+			<snippet></snippet>
+			<description><![CDATA[<html><body><table border="1"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>3</td></tr><tr><td>Nùmero</td><td>3</td></tr><tr><td>Región</td><td>REGIÓN DE AYSÉN DEL GENERAL CARLOS IBAÑEZ DEL CAMPO</td></tr><tr><td>N° Resolución SUBPESCA</td><td>1549</td></tr><tr><td>Fecha Resolución SUBPESCA</td><td>07-06-2012</td></tr></table></body></html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-73.08255237743775,-43.61519571493758,0 -73.30300452574508,-43.91302110899647,0 -73.30092842916115,-44.18066459703932,0 -73.32849165446308,-44.32159022051587,0 -73.47223852211539,-44.6517366124715,0 -73.42785518932979,-44.83871914488168,0 -73.51970008649181,-44.93215645257624,0 -73.55082970772473,-45.0184320223218,0 -73.59890169465685,-45.20122022478598,0 -73.46784925858991,-45.24067056528263,0 -73.417441499926,-45.26989333699366,0 -73.31678279201374,-45.28412290044799,0 -73.27842507434423,-45.24120822209292,0 -73.20930049812691,-45.23341161935781,0 -73.11554716721979,-45.28682862624326,0 -73.00855625188542,-45.3735581979545,0 -72.92452947774456,-45.39975631924813,0 -72.82393839314213,-45.37411136021041,0 -72.70560125851198,-45.36641776325325,0 -72.457520916275,-44.34746059933833,0 -72.78030079523904,-43.64147023156239,0 -73.08255237743775,-43.61519571493758,0 -73.08255237743775,-43.61519571493758,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="ID_00003">
+			<name>4</name>
+			<snippet></snippet>
+			<description><![CDATA[<html><body><table border="1"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>4</td></tr><tr><td>Nùmero</td><td>4</td></tr><tr><td>Región</td><td>REGION DE LOS LAGOS</td></tr><tr><td>N° Resolución SUBPESCA</td><td>1548</td></tr><tr><td>Fecha Resolución SUBPESCA</td><td>07-06-2012</td></tr></table></body></html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-73.53851896038617,-42.12428246578553,0 -73.41905554714634,-42.2805980086723,0 -73.69112754293157,-42.36591310765099,0 -73.87955345359808,-42.53483123644184,0 -73.64958114196837,-42.73774369866801,0 -73.52340628679633,-42.77429545618227,0 -73.19743882218789,-42.74218059984745,0 -73.06093391986852,-42.52489320835745,0 -73.10737383212091,-42.42863425478878,0 -72.91075591171195,-42.18161132500713,0 -73.41129804658689,-42.0919264596406,0 -73.53851896038617,-42.12428246578553,0 -73.53851896038617,-42.12428246578553,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="ID_00004">
+			<name>5</name>
+			<snippet></snippet>
+			<description><![CDATA[<html><body><table border="1"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>5</td></tr><tr><td>Nùmero</td><td>5</td></tr><tr><td>Región</td><td>REGION DE LOS LAGOS</td></tr><tr><td>N° Resolución SUBPESCA</td><td>1548</td></tr><tr><td>Fecha Resolución SUBPESCA</td><td>07-06-2012</td></tr></table></body></html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-72.66324379940502,-41.99744409885245,0 -72.69055290056544,-42.02849689875518,0 -72.72092404802132,-42.11859188679463,0 -72.85761494243043,-42.24642426944246,0 -72.9123185109291,-42.78840541070188,0 -72.9552587428515,-42.81188454804808,0 -72.97864765452248,-42.99528742011945,0 -73.15410573669772,-43.43111170812497,0 -73.06579369121381,-43.44447990607328,0 -72.7579706866544,-43.15295766290775,0 -72.6923589208382,-43.10529204322537,0 -72.50336172550017,-42.60713295765434,0 -72.40752593705416,-42.5445934294676,0 -72.23867400634958,-42.16124554713547,0 -72.42423279672917,-41.9521090097264,0 -72.66324379940502,-41.99744409885245,0 -72.66324379940502,-41.99744409885245,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="ID_00005">
+			<name>6</name>
+			<snippet></snippet>
+			<description><![CDATA[<html><body><table border="1"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>6</td></tr><tr><td>Nùmero</td><td>6</td></tr><tr><td>Región</td><td>REGION DE LOS LAGOS</td></tr><tr><td>N° Resolución SUBPESCA</td><td>1548</td></tr><tr><td>Fecha Resolución SUBPESCA</td><td>07-06-2012</td></tr></table></body></html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-73.74607423760074,-42.83689917421759,0 -74.394178393521,-43.26933415391323,0 -74.28386996782079,-43.48699382069261,0 -73.76864151275467,-43.50572253422903,0 -73.5638982765492,-43.31460712895103,0 -73.37660301323025,-43.16501955136506,0 -73.19442227940746,-42.9494467287495,0 -73.41376482598417,-42.84783814388452,0 -73.47151931900912,-42.86630618747899,0 -73.74607423760074,-42.83689917421759,0 -73.74607423760074,-42.83689917421759,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="ID_00006">
+			<name>7</name>
+			<snippet></snippet>
+			<description><![CDATA[<html><body><table border="1"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>7</td></tr><tr><td>Nùmero</td><td>7</td></tr><tr><td>Región</td><td>REGION DE LOS LAGOS</td></tr><tr><td>N° Resolución SUBPESCA</td><td>1548</td></tr><tr><td>Fecha Resolución SUBPESCA</td><td>07-06-2012</td></tr></table></body></html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-73.97403805933513,-41.74777858976552,0 -74.01577973387508,-41.83794907785683,0 -73.97414054672174,-41.86452083546992,0 -73.74426164652789,-41.92219211007308,0 -73.56238600852271,-41.97447254932884,0 -73.51889951529209,-41.96858638168298,0 -73.49196945896554,-41.96724905064076,0 -73.44780963991199,-41.84247323907074,0 -73.53723432167195,-41.79684609509101,0 -73.97403805933513,-41.74777858976552,0 -73.97403805933513,-41.74777858976552,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="ID_00007">
+			<name>8</name>
+			<snippet></snippet>
+			<styleUrl>#__managed_style_05061E66A22AA51AE3F7</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-73.82894404568519,-41.53624210861052,0 -73.96162803621219,-41.7272666121593,0 -73.40709003874304,-41.78353068363391,0 -73.35699653720117,-41.84686513068731,0 -73.09718988667741,-41.94691357237741,0 -72.8094379472991,-41.97135041624374,0 -72.62848541209459,-41.75112063307585,0 -72.32968734191113,-41.73688087674855,0 -72.23564909521066,-41.40018910055769,0 -72.32925944162196,-41.35510234260442,0 -72.80150659683558,-41.42797150343156,0 -73.14283709117103,-41.48580920994593,0 -73.48332606041939,-41.54367051654144,0 -73.82894404568519,-41.53624210861052,0 -73.82894404568519,-41.53624210861052,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="ID_00008">
+			<name>9</name>
+			<snippet></snippet>
+			<description><![CDATA[<html><body><table border="1"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>9</td></tr><tr><td>Nùmero</td><td>9</td></tr><tr><td>Región</td><td>REGION DE MAGALLANES Y DE LA ANTÁRTICA CHILENA</td></tr><tr><td>N° Resolución SUBPESCA</td><td>2247</td></tr><tr><td>Fecha Resolución SUBPESCA</td><td>26-08-2014</td></tr></table></body></html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-72.74288790845112,-51.9530565107386,0 -72.84262669691088,-51.95492704172003,0 -72.89840659656888,-51.99338531954611,0 -73.00367943224002,-52.06015023318612,0 -73.17025326364272,-52.15712051418706,0 -73.08857943476676,-52.36678084518946,0 -72.79088163268811,-52.36158906808859,0 -72.69982761783598,-52.27794904206473,0 -72.65219261839157,-52.15061766835071,0 -72.72621595324141,-52.08867192355064,0 -72.74132238262547,-52.0478576653713,0 -72.75671098638966,-51.97437000534085,0 -72.74288790845112,-51.9530565107386,0 -72.74288790845112,-51.9530565107386,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="ID_00009">
+			<name>10</name>
+			<snippet></snippet>
+			<description><![CDATA[<html><body><table border="1"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>10</td></tr><tr><td>Nùmero</td><td>10</td></tr><tr><td>Región</td><td>REGION DE MAGALLANES Y DE LA ANTÁRTICA CHILENA</td></tr><tr><td>N° Resolución SUBPESCA</td><td>2247</td></tr><tr><td>Fecha Resolución SUBPESCA</td><td>26-08-2014</td></tr></table></body></html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-73.2935781074026,-51.53633946928202,0 -73.34856902699583,-51.57509284740662,0 -73.13298982212503,-51.89809069108636,0 -72.85486928425998,-51.83251815371695,0 -72.83740031880789,-51.76273377000197,0 -72.83989149383014,-51.74530027646773,0 -73.2935781074026,-51.53633946928202,0 -73.2935781074026,-51.53633946928202,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
